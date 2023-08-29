@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sofcom-app/static/css/main.073c9b0a.css",
+    "main.js": "/sofcom-app/static/js/main.6ae51a36.js",
+    "index.html": "/sofcom-app/index.html",
+    "main.073c9b0a.css.map": "/sofcom-app/static/css/main.073c9b0a.css.map",
+    "main.6ae51a36.js.map": "/sofcom-app/static/js/main.6ae51a36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6ae51a36.js"
+  ]
+}
